@@ -1,7 +1,7 @@
 {
-  "name": "zmz-bot",
+  "name": "ScarvetFx",
   "version": "1.0.0",
-  "description": "WhatsApp Bot by ZmZ",
+  "description": "WhatsApp Bot by ScarvetFx",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

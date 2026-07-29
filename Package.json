@@ -1,0 +1,22 @@
+{
+  "name": "ScarvetFx",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot by ScarvetFx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "dotenv": "^16.4.7",
+    "fs-extra": "^11.3.0",
+    "axios": "^1.7.9",
+    "ytdl-core": "^4.11.5",
+    "fluent-ffmpeg": "^2.1.3",
+    "sharp": "^0.33.5",
+    "moment-timezone": "^0.5.47"
+  }
+}
